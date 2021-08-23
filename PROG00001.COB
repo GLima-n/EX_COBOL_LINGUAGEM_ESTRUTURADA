@@ -3,8 +3,8 @@
       * Date: 22/08/2021                                    ==>COBOL   *
       *                                                                *
       *                                                                *
-      * -PROGRAMA DE INSERÇÃO DE BLOCOS DE PROCEDIMENTOS DENTRO        *
-      * DOS BLOCOS DE SESSÃO, DEMONSTRAÇÃO DA LINGUAGEM ESTRUTURADA.   *
+      * -PROGRAMA DE INSERCAO DE BLOCOS DE PROCEDIMENTOS DENTRO        *
+      * DOS BLOCOS DE SESSAO, DEMONSTRACAO DA LINGUAGEM ESTRUTURADA.   *
       *================================================================*
        IDENTIFICATION                                        DIVISION.
        PROGRAM-ID. PROG00001.
